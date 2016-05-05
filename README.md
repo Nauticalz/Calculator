@@ -1,5 +1,5 @@
 #Calculator
-Enter your birthdate and figure out exactly how old you REALLY are!
+Enter a math problem and figure out the answer by clicking a few buttons!
 
 #How To Download
 Click on "Download ZIP" (Top Right Corner under "Contributers").
